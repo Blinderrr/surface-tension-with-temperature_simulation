@@ -7,3 +7,5 @@ requirements
 pyqt
 matplotlib
 numpy
+
+直接运行.py就可以，.ui文件是qt的源文件，方便进行查看和调整
